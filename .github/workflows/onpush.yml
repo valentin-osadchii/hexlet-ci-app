@@ -14,7 +14,11 @@ jobs:
       - uses: actions/checkout@v4
       # run – произвольная bash-команда
       # ls -la выведет содержимое текущего репозитория
+<<<<<<< HEAD
       - uses: actions/setup-node@v4
+=======
+      - uses: action/setup-node@v4
+>>>>>>> d879d713a726d54637b1eae8f2b6e58a27dd35c1
       - run: make setup
       - run: make test
       - run: make lint
