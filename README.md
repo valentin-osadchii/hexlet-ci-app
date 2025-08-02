@@ -1,3 +1,5 @@
+[![onpush](https://github.com/valentin-osadchii/hexlet-ci-app/actions/workflows/onpush.yml/badge.svg)](https://github.com/valentin-osadchii/hexlet-ci-app/actions/workflows/onpush.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
